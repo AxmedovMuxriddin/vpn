@@ -1,0 +1,172 @@
+.table {
+  width: 80%;
+  margin-left: 100px;
+}
+.img {
+  width: 36px;
+}
+.one {
+  width: 70px;
+}
+.two {
+  width: 200px;
+}
+.three {
+  width: 120px;
+}
+.four {
+  width: 200px;
+}
+.five {
+  width: 100px;
+}
+td h2 {
+  width: 100px;
+}
+.six {
+  width: 200px;
+}
+.buttonone {
+  color: red;
+  background-color: white;
+  width: 200px;
+  height: 60px;
+  border-color: red;
+  border-radius: 50px;
+} 
+button h2 {
+  margin-left: 35px;
+}
+.tabletwo {
+  margin-top: 70px;
+  width: 80%;
+  margin-left: 100px;
+}
+.want {
+
+  font-size: 65px;
+}
+.get {
+  background-color: red;
+  color: white;
+  width: 300px;
+  height: 60px;
+  border-radius: 15px;
+}
+.provide {
+  font-size: 25px;
+  height: 120px;
+}
+.img2 {
+  height: 430px;
+}
+.tablethree {
+  margin-top: 150px;
+  width: 70%;
+  margin-left: 200px;
+}
+.img3 {
+  width: 50px;
+}
+.p1 {
+  font-size: 40px;
+  font-weight: 900;
+  margin: 0;
+}
+.border {
+  border-right: 5px solid whitesmoke;
+}
+.tablefour {
+  margin-top: 150px;
+  width: 80%;
+  margin-left: 100px;
+}
+.we {
+  font-size: 40px ;
+  font-weight: 900;
+}
+.tablefive {
+  margin-left:  170px;
+  width: 80%;
+}
+.form {
+text-align: center;
+}
+.check {
+  border: 2px solid #DDDDDD;
+  text-align: center;
+}
+.map {
+  margin-top: 150px;
+  
+  margin-left: 280px;
+}
+.sponsored {
+  margin-left: 280px;
+}
+.tablesix{
+  margin-top: 100px;
+  margin-left: 150px;
+  width: 80%;
+}
+.robert {
+  border: 2px solid #F53838;
+  border-radius: 10px;
+  width: 33%;
+}
+.christy {
+  border: 2px solid #DDDDDD;
+  border-radius: 10px;
+  width: 33%;
+}
+.formone {
+  margin-left: 195px;
+
+}
+.buttontwo {
+  border-radius: 10px;
+  height: 15px;
+  width: 60px;
+  background-color: #F53838;
+}
+.buttonthree {
+  margin-left: 20px;
+  height: 15px;
+  border-radius: 30px;
+}
+.buttonfour {
+  margin-left: 900px;
+  height: 70px;
+  width: 70px;
+  background-color: white;
+  border-radius: 50px;
+  border-color: #F53838;
+}
+.buttonfive {
+  height: 70px;
+  width: 70px;
+  background-color: red;
+  border-radius: 50px; 
+}
+.tableseven {
+  margin-left: 170px;
+  width: 80%;
+  background-color: white;
+}
+.LaslesVPN {
+  width: 660px;
+}
+.product {
+  width: 300px;
+}
+.tableeight {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.tablenine {
+  margin-left: 100px;
+  width: 95%;
+}
+.security {
+  margin-left: 0px;
+}
